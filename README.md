@@ -40,13 +40,16 @@ El ejercicio de Python consta de hacer 2 ***variables*** y juntarlas para que se
 ## 3.Codigo
 
 ```python
-
+# Esto son dos variables 
 palabra = "hola"
 booleano = True
 
-
+# la f sirve para poder dar formato string a las variables
 print(f"Palabra: {palabra}, is_conductor: {booleano}")
 
 ```
 
 ## 4.Opinion
+
+- [ ] Le ha gustado :smile:
+- [ ] No le ha gustado :cry:
